@@ -3,14 +3,13 @@ import './App.css';
 import SingleCard from './components/SingleCard';
 
 const cardImages = [
-  {"src": "/lregala/img/doge1.png", matched: false},
-  {"src": "/lregala/img/doge2.png", matched: false},
-  {"src": "/lregala/img/doge3.png", matched: false},
-  {"src": "/lregala/img/doge4.png", matched: false},
-  {"src": "/lregala/img/doge5.png", matched: false},
-  {"src": "/lregala/img/doge6.png", matched: false}  
+  {"src": "img/doge1.png", matched: false},
+  {"src": "img/doge2.png", matched: false},
+  {"src": "img/doge3.png", matched: false},
+  {"src": "img/doge4.png", matched: false},
+  {"src": "img/doge5.png", matched: false},
+  {"src": "img/doge6.png", matched: false}  
 ]
-
 
 function App() {
   const [cards, setCards] = useState([]);
