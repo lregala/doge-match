@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/doge-match/static/css/main.f792d8ae.css",
-    "main.js": "/doge-match/static/js/main.08ff8602.js",
+    "main.js": "/doge-match/static/js/main.2ff85164.js",
     "index.html": "/doge-match/index.html",
     "main.f792d8ae.css.map": "/doge-match/static/css/main.f792d8ae.css.map",
-    "main.08ff8602.js.map": "/doge-match/static/js/main.08ff8602.js.map"
+    "main.2ff85164.js.map": "/doge-match/static/js/main.2ff85164.js.map"
   },
   "entrypoints": [
     "static/css/main.f792d8ae.css",
-    "static/js/main.08ff8602.js"
+    "static/js/main.2ff85164.js"
   ]
 }
